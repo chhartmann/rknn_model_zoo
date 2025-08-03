@@ -1,5 +1,0 @@
-{
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {},
-  "postCreateCommand" : "pip3 install --break-system-packages --user rknn-toolkit2 && git clone https://github.com/deerpi/arm-rockchip830-linux-uclibcgnueabihf.git"
-}
